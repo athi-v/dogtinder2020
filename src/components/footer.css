@@ -1,0 +1,14 @@
+footer {
+background-color: #fff;
+text-align: center;
+}
+
+footer .container-fluid {
+    padding: 7% 15% 7%;
+}
+footer .social-icon {
+    margin: 40px 10px;
+    font-size: 2em;
+  }
+
+  

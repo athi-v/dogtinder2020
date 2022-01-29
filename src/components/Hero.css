@@ -1,0 +1,38 @@
+.hero { 
+    background-color: #ff4c68;
+   
+}
+
+.hero .container-fluid {
+    padding: 7% 15% 7%;
+}
+
+.hero .big-heading {
+    font-family: 'Montserrat';
+    color: #fff;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.hero .title-image {
+    width: 60%; 
+    transform: rotate(25deg);
+    /* position: absolute; */
+    right: 30%;
+}
+
+.hero .download-button {
+    margin: 5% 2% 5% 0%;
+    font-family: 'Montserrat'; 
+ }
+  
+    @media (max-width:1028px) {
+        .hero {
+          text-align: center;
+        }
+      
+        .hero .title-image {
+          position: static;
+          transform: rotate(0);
+        }
+      }

@@ -1,0 +1,22 @@
+.cta {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+.cta .download-button {
+    margin: 5% 2% 5% 0%;
+    font-family: 'Montserrat'; 
+ }
+
+ .cta .container-fluid {
+    padding: 7% 15% 7%;
+}
+
+.cta .big-heading {
+    font-family: 'Montserrat';
+    color: #fff;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}

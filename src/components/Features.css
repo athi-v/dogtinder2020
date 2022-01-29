@@ -1,0 +1,42 @@
+.features {
+    position: relative;
+    background-color: #fff;
+    text-align: center;
+
+}
+
+.features .feature-title {
+    font-size: 1.5rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    
+  }
+  .features .container-fluid {
+    padding: 7% 15% 7%;
+}
+
+  p {
+    color: #8f8f8f;
+    font-family: 'Montserrat'
+  }
+
+.features .feature-box {
+    padding: 4.5%;
+  }
+  
+.features .icon {
+    color: hsl(7, 80%, 69%);
+    margin-bottom: 1rem;
+    font-size: 4em;
+  }
+
+  .features .icon:hover {
+    color: #ff4c68;
+  }
+  
+  
+  @media (max-width:1028px) {
+    .features {
+      text-align: center;
+    }
+}

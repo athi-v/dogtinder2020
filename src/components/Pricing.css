@@ -1,0 +1,21 @@
+.pricing {
+    padding: 100px;
+    font-family: 'Montserrat';
+    text-align: center;
+  }
+h1 
+{
+  font-weight: 700;
+}
+  h2 {
+    font-weight: bold;
+  }
+
+ .pricing .pricing-column {
+    padding: 3% 2%;
+  }
+
+ .pricing .price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }

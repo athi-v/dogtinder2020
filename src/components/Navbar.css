@@ -1,0 +1,48 @@
+header { 
+background-color: #ff4c68;
+
+}
+
+/* header .navbar {
+ 
+  padding: 0 0 4.5rem;
+  } */
+
+header .list-logo {
+  color: #fff;
+    font-size: 2.5rem;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  header .list-logo:hover {
+    
+color: lightcyan;
+    }
+
+header .list {
+  color: #ffffff;
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 15px;
+    line-height: 3;
+  }
+
+  header .list:hover {
+    color: lightcyan;  }
+
+header .container-fluid {
+    padding: 7% 15%;
+  }
+
+  @media (max-width:1028px) {
+    header {
+      text-align: center;
+    }
+    
+  }
